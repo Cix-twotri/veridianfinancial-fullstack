@@ -1,0 +1,6 @@
+[submodule "client"]
+    path = client
+    url = github.com/Cix-twotri/veridiafinancialclient.git
+[submodule "server"]
+    path = server
+    url = github.com/Cix-twotri/veridianfinancial-api.git
